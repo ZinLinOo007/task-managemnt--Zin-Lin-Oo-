@@ -4,7 +4,11 @@
 ## Backend
 ### C#(.Net 8)
 ## Database
-### MSSQL Sercer
+### MSSQL Server
+##Installation
+### Microsoft.Data.SqlClient
+
+
 
 
 
